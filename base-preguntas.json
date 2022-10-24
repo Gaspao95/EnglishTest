@@ -1,0 +1,144 @@
+[
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "Como dirias: Guadalupe y Juana son de Mexico ?",
+        "respuesta": "Guadalupe and Juana are from Mexico",
+        "incorrecta1": "Guadalupe and Juana is from Mexico",
+        "incorrecta2": "Guadalupe and Juana are Mexican",
+        "incorrecta3": "Guadalupe and Juana is Mexican",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "¿Cómo dirías:Ramón trabaja en una fábrica?",
+        "respuesta": "Ramón works in a factory",
+        "incorrecta1": "Ramón work in a factory",
+        "incorrecta2": "Ramón work in a fabric",
+        "incorrecta3": "Ramón works in a fabric",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "¿Cómo dirías?: Es mi coche. Tu coche es el otro.",
+        "respuesta": "Its my car. Your car is the other one",
+        "incorrecta1": "He is my car. Your car is the other one",
+        "incorrecta2": "It is my car. Your car is the other one",
+        "incorrecta3": "It is my car. Its car is the other one",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "Completa la frase: Rome is famous for _ monuments.",
+        "respuesta": "its",
+        "incorrecta1": "her",
+        "incorrecta2": "his",
+        "incorrecta3": "it",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "Cómo dirías: Hay tres lápices, dos relojes y cuatro diccionarios",
+        "respuesta": "There are three pencils, two watches and four dictionaries",
+        "incorrecta1": "There are three pencils, two watchs and four dictionaries",
+        "incorrecta2": "There are three pencils, two watches and four dictionarys",
+        "incorrecta3": "There are three penciless, two watches and four dictionaries",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "¿Cómo sería la forma negativa de esta frase: She plays tennis with her father",
+        "respuesta": "She doesn't play tennis with her father",
+        "incorrecta1": "She don't play tennis with her father",
+        "incorrecta2": "She not play tennis with her father",
+        "incorrecta3": "She doesn't plays tennis with her father ",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "¿Cómo dirías Te gustan mis dibujos ?",
+        "respuesta": "Do you like my drawings?",
+        "incorrecta1": "Do You like mys drawings?",
+        "incorrecta2": "Are you like my drawings?",
+        "incorrecta3": "Does you like my drawings?",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "Cómo dirías 5,321?",
+        "respuesta": "Five thousand three hundred twenty-one",
+        "incorrecta1": "Five miles three hundred twenty-one ",
+        "incorrecta2": "Five thousands three hundreds twenty-one ",
+        "incorrecta3": "Five hundred three thousand twenty-one",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "¿Qué pregunta corresponde a la siguiente respuesta: I am from Spain?",
+        "respuesta": "Where are you from?",
+        "incorrecta1": "Were are you from?",
+        "incorrecta2": "Where from you are?",
+        "incorrecta3": "What is your nationality?",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "Make question: I have two cars",
+        "respuesta": "How many cars do you have?",
+        "incorrecta1": "How much cars do you have?",
+        "incorrecta2": "How many cars do you has?",
+        "incorrecta3": "how many cars does you have?",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "Make question: Sarah is a dentist",
+        "respuesta": "What is Sarah's profession?",
+        "incorrecta1": "What are Sarah's profession?",
+        "incorrecta2": "What are Sarahs' profession?",
+        "incorrecta3": "What is Sarahs' profession?",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "Make question: Alba is from Cuba",
+        "respuesta": "Where is Alba from?",
+        "incorrecta1": "Where is Alba fron?",
+        "incorrecta2": "Where are Alba from?",
+        "incorrecta3": "Where are Alba fron?",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "I cleaned my shoes",
+        "respuesta": "What did you do?",
+        "incorrecta1": "What did you doing?",
+        "incorrecta2": "What did you do now?",
+        "incorrecta3": "What did your do now?",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Multiple choice",
+        "pregunta": "Yes, I could",
+        "respuesta": "Could you pass this exam?",
+        "incorrecta1": "Can you pass this exam?",
+        "incorrecta2": "Could you passing this exam?",
+        "incorrecta3": "Can you passing this exam?",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+
+    
+]
